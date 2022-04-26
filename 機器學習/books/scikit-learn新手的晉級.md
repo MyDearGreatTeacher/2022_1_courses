@@ -1,5 +1,5 @@
-# [scikit-learn 新手的晉級：實作各種機器學習解決方案 (Mastering Machine Learning with scikit-learn, 2/e)Gavin Hackeling](https://www.tenlong.com.tw/products/9789864344840)
-- [英文版資訊]()
+# [scikit-learn 新手的晉級：實作各種機器學習解決方案 ](https://www.tenlong.com.tw/products/9789864344840)
+- [英文版資訊(Mastering Machine Learning with scikit-learn, 2/e)Gavin Hackeling](https://www.packtpub.com/product/mastering-machine-learning-with-scikit-learn-second-edition/9781788299879)
 - 有★號的是上課重點
 - 報告請自行增加內容
 ```
