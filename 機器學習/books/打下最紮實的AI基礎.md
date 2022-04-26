@@ -1,4 +1,5 @@
 # [打下最紮實的AI基礎：從scikit-learn一步一腳印](https://www.books.com.tw/products/0010816766?sloc=main)
+- [官方網址](http://www.deepstone.com.tw/list/0k021138569711077474?qcat=0J205202539029950624)
 - 有★號的是上課重點
 - 報告請自行增加內容
 ```
