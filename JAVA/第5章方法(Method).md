@@ -77,9 +77,10 @@ public class Method2 {
 
 
 
-## 5.3 傳值呼叫與參考呼叫
+## 5.3 傳值呼叫(call by value)與參考呼叫(call by reference)
 
-
+- 傳值呼叫(call by value) == > 把數值傳給
+- 參考呼叫(call by reference)
 ```java
 public class CallByVal {
 	public static void main(String[] args) {
