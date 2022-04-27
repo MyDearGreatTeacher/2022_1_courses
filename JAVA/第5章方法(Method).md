@@ -81,6 +81,7 @@ public class Method2 {
 
 - 傳值呼叫(call by value) == > 把數值傳給
 - 參考呼叫(call by reference)
+- call by address(記憶體位址)
 ```java
 public class CallByVal {
 	public static void main(String[] args) {
@@ -210,7 +211,7 @@ public class Score {
 ```
 
 
-## 5.5 方法多載
+## 5.5 方法多載(overloading)
 
 ```java
 public class AddNum {
