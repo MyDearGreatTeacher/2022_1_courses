@@ -15,8 +15,10 @@
 
 # 機器學習演算法實戰與應用
 ## 監督式機器學習演算法(1)回歸演算法
-- 回歸演算法
+- [回歸演算法Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
+- [Least Squares Method最小平方法](https://en.wikipedia.org/wiki/Least_squares)
 - 線性回歸演算法
+- [小專案1:pizza定價模型](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition/tree/master/chapter02)
 - 小專案:波士頓房價預測模型
 ## 監督式機器學習演算法(2)分類演算法
 - 分類演算法
