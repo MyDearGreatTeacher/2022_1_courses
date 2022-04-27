@@ -23,6 +23,7 @@
 - 小專案:波士頓房價預測模型
 ## 監督式機器學習演算法(2)分類演算法
 - 分類演算法
+- [k-nearest neighbors algorithm (k-NN) ](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 - 分類演算法效能評估指標
 - 小專案:Pima印地安人糖尿病預測模型
 ## 監督式機器學習演算法(3)決策樹演算法
