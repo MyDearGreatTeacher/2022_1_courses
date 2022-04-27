@@ -20,7 +20,7 @@
 - 線性回歸演算法
 - [小小練習: matplotlib.pyplot!](機器學習類型: https://matplotlib.org/3.5.0/api/_as_gen/matplotlib.pyplot.html)
 - [小專案1:pizza定價模型](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition/tree/master/chapter02)
-  - 關鍵程式碼1: from sklearn.linear_model import LinearRegression
+  - 關鍵程式碼1: from sklearn.linear_model import LinearRegression  選擇你要使用的模型
   - 關鍵程式碼2: model = LinearRegression()
   - 關鍵程式碼3: model.fit(X, y) 建立模型
   - 關鍵程式碼4:test_pizza = np.array([[200]]) 建立要預測的資料
