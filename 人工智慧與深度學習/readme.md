@@ -1,6 +1,6 @@
 ## Google Meet 
 
-https://meet.google.com/evt-gohx-rpz
+https://meet.google.com/thy-mzue-ean
 
 
 
