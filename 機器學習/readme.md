@@ -1,3 +1,7 @@
+## Google Meet 
+
+https://meet.google.com/wdf-tvom-sbo
+
 ## 報告內容:機器學習演算法分析與應用報告
 - 機器學習MACHINE LEARNING 
 - 機器學習類型與常見演算法
