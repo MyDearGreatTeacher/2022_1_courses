@@ -1,6 +1,6 @@
 ## Google Meet 
 
-https://meet.google.com/wdf-tvom-sbo
+https://meet.google.com/rsd-iigk-zbh
 
 ## 報告內容:機器學習演算法分析與應用報告
 - 機器學習MACHINE LEARNING 
