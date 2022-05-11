@@ -97,7 +97,9 @@ class Cavg {
     public double getAvg(int num1, int num2) {
        return (num1+num2)/2;
     }
-
+    public double getAvg(double num1, double num2) {
+       return (num1+num2)/2;
+    }
     public double getAvg(int[] vArray) {
        int n = vArray[0];
        for(int i=1; i<vArray.length; i++){
