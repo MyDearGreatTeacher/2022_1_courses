@@ -95,12 +95,15 @@ public class Encapsulate {       //主類別
 ```java
 class Cavg {
     public double getAvg(int num1, int num2) {
+       System.out.println("A999168兩位整數的平均值" );
        return (num1+num2)/2;
     }
     public double getAvg(double num1, double num2) {
+       System.out.println("A999168兩位浮點數的平均值" );
        return (num1+num2)/2;
     }
     public double getAvg(int[] vArray) {
+       System.out.println("A999168多位整數的平均值" );
        int n = vArray[0];
        for(int i=1; i<vArray.length; i++){
           n += vArray[i];
