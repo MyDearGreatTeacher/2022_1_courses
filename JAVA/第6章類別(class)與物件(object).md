@@ -41,7 +41,12 @@ public class BuildObject {
 }
 ```
 
-
+## 物件導向程式設計(object-oriented programming)
+- 類別(class)與物件(object)
+- 物件導向程式設計三大特徵:
+  - 封裝
+  - 繼承
+  - 多形
 
 ```java
 
