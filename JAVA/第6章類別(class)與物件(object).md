@@ -44,7 +44,8 @@ public class BuildObject {
 ## 物件導向程式設計(object-oriented programming)
 - 類別(class)與物件(object)
 - 物件導向程式設計三大特徵:
-  - 封裝
+  - 封裝(Encapsulation)
+    - private (私有)  protected (保護) public (公開)
   - 繼承
   - 多形
 
@@ -83,6 +84,14 @@ public class Encapsulate {       //主類別
     }
 }
 ```
+
+## 6.3 方法多載
+
+```
+「多載」是指同一個類別內，有兩個以上相同名稱的方法，但是因為各個方法所要傳入的引數個數不同，
+或者是引數的資料型別不同，則這些方法將被視為不同，且各有各自的內容。
+```
+
 ```java
 class Cavg {
     public double getAvg(int num1, int num2) {
