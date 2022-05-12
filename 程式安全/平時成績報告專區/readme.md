@@ -15,6 +15,6 @@
     - [IEC 62443](https://zh.wikipedia.org/wiki/IEC_62443)
   - 4.[IOT安全與威脅] 彙整近幾年(2020-2022)發生的IOT資安事件與根由(Root-cause)
     - [Root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis) 
-  - 5.[藍芽安全 Bluetooth security]
+  - 5.[藍芽安全 Bluetooth security] 彙整近幾年(2020-2022)發生的藍芽資安事件與根由(Root-cause)
     - [The Top 5 Bluetooth Security Vulnerabilities](https://www.globalsign.com/en/blog/top-5-bluetooth-security-vulnerabilities) 
 
