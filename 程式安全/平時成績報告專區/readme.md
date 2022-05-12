@@ -21,6 +21,7 @@
     - [A Comprehensive Guide to IoT Security Testing](https://www.getastra.com/blog/security-audit/iot-security-testing/)
     - [Top 5 Most Powerful IoT Security Testing Tools](https://www.appknox.com/blog/iot-security-testing-tools)
     - [IoT Security Testing](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-risk-iot-security-testing-noexp.pdf)
+    - [NIST SP 800-213 IoT Device Cybersecurity Guidance for the Federal Government: Establishing IoT Device Cybersecurity Requirements](https://csrc.nist.gov/publications/detail/sp/800-213/final)
   - 6.[藍芽安全 Bluetooth security] 彙整近幾年(2020-2022)發生的藍芽資安事件與根由(Root-cause)
     - [The Top 5 Bluetooth Security Vulnerabilities](https://www.globalsign.com/en/blog/top-5-bluetooth-security-vulnerabilities) 
     - [Bluetooth-LE Security：Method, Tools and Stack](https://www.anquanke.com/post/id/222622)
