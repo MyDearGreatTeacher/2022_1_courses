@@ -9,3 +9,4 @@
     - [MITRE ATT&Ck](https://attack.mitre.org/)
     - [MITRE DEFEND](https://d3fend.mitre.org/)
     - [MITRE Engage](https://engage.mitre.org/)
+      - [Active Defense with MITRE Engage](https://www.zscaler.com/blogs/product-insights/active-defense-mitre-engage?_bt=&_bk=&_bm=&_bn=x&_bg=&utm_source=google&utm_medium=cpc&utm_campaign=google-ads-na&gclid=CjwKCAjwve2TBhByEiwAaktM1AZWdVumbgAwBU1eApJeMq2SxwkBVqfUk_3XkjXUkpfFDquZMtcX4BoCRjcQAvD_BwE)
