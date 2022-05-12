@@ -15,6 +15,13 @@
     - [IEC 62443](https://zh.wikipedia.org/wiki/IEC_62443)
   - 4.[IOT安全與威脅] 彙整近幾年(2020-2022)發生的IOT資安事件與根由(Root-cause)
     - [Root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis) 
-  - 5.[藍芽安全 Bluetooth security] 彙整近幾年(2020-2022)發生的藍芽資安事件與根由(Root-cause)
+  - 5.IoT Security Testing
+    - [Internet of Things (IoT) Top 10 2018]() 
+    - [THE ULTIMATE IOT SECURITY CHECKLIST](https://blog.particle.io/iot-security/)
+    - [A Comprehensive Guide to IoT Security Testing](https://www.getastra.com/blog/security-audit/iot-security-testing/)
+    - [Top 5 Most Powerful IoT Security Testing Tools](https://www.appknox.com/blog/iot-security-testing-tools)
+    - [IoT Security Testing](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-risk-iot-security-testing-noexp.pdf)
+  - 6.[藍芽安全 Bluetooth security] 彙整近幾年(2020-2022)發生的藍芽資安事件與根由(Root-cause)
     - [The Top 5 Bluetooth Security Vulnerabilities](https://www.globalsign.com/en/blog/top-5-bluetooth-security-vulnerabilities) 
+    - [Bluetooth-LE Security：Method, Tools and Stack](https://www.anquanke.com/post/id/222622)
 
