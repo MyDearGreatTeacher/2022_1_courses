@@ -4,8 +4,8 @@ https://meet.google.com/cww-tjwz-fvv
 
 
 # 開發環境下載
-- [Kali系統下載區](https://drive.google.com/file/d/1sLZq9QoV_YrsLV7m3WJwq7NvO-pMuZc7/view?usp=sharing)
-- [Ubuntu 18.04LTS系統下載區(感謝陳憶賢博士提供)](https://drive.google.com/file/d/1QPy_Ztk5Gl1ZkHRRCCytEJRem0KjItOw/view?usp=sharing)
+- [Kali系統下載區]
+- [Ubuntu 18.04LTS系統下載區(感謝陳憶賢博士提供)]
 
 # 從程式開發到程式安全  From coding to Security
 
