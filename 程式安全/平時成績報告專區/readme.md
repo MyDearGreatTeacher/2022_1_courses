@@ -2,7 +2,7 @@
 ## 針對演講主題加以申論
 - 可以做兩份報告
 - 建議主題
-  - 1. 攻擊與防禦的論術標準
+  - 1.攻擊與防禦的論術標準
     - [MITRE ATT&Ck](https://attack.mitre.org/)
     - [MITRE DEFEND](https://d3fend.mitre.org/)
     - [MITRE Engage](https://engage.mitre.org/)
