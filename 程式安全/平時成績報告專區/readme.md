@@ -16,7 +16,7 @@
   - 4.[IOT安全與威脅] 彙整近幾年(2020-2022)發生的IOT資安事件與根由(Root-cause)
     - [Root cause analysis](https://en.wikipedia.org/wiki/Root_cause_analysis) 
   - 5.IoT Security Testing
-    - [Internet of Things (IoT) Top 10 2018]() 
+    - [Internet of Things (IoT) Top 10 2018](https://owasp.org/www-project-internet-of-things/) 
     - [THE ULTIMATE IOT SECURITY CHECKLIST](https://blog.particle.io/iot-security/)
     - [A Comprehensive Guide to IoT Security Testing](https://www.getastra.com/blog/security-audit/iot-security-testing/)
     - [Top 5 Most Powerful IoT Security Testing Tools](https://www.appknox.com/blog/iot-security-testing-tools)
