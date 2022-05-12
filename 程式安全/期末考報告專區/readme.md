@@ -1,4 +1,16 @@
-## 測試環境
+## 測試環境建置
+- 以ubuntu 20.04/18.04 LTS或Kali linux
+- [安裝peda](https://github.com/longld/peda) 
+```
+git clone https://github.com/longld/peda.git ~/peda
+echo "source ~/peda/peda.py" >> ~/.gdbinit
+```
+- [GHidra](https://ghidra-sre.org/)
+- [pwntools](https://ithelp.ithome.com.tw/articles/10227326)
+```
+sudo apt install python-pip
+sudo pip install pwntools
+```
 
 
 ## 第一題:Buffer overflow-1
