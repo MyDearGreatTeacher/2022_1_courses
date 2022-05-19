@@ -67,7 +67,9 @@ sudo pip install pwntools
 - 程式行為分析
   - file 《binary》
   - strings 《binary》
-  - pwn checksec《binary》或使用gdb-peda的checksec
+  - 使用[checksec](https://github.com/slimm609/checksec.sh)檢查程式的安全設定
+    - [checksec工具使用-pwn](https://www.jianshu.com/p/755e52d48a77) 
+    - pwn checksec《binary》或使用gdb-peda的checksec
   - 執行時的輸出與輸入
 
 - 逆向分析
