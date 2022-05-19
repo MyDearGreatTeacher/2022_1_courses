@@ -15,8 +15,9 @@
 
 
 ## 測試環境與工具
-- 作業系統ubuntu 2022.04 LTS
+- 作業系統 建議使用最新ubuntu 2022.04 LTS自建系統
   - [KALi](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing) 
+  - [陳義賢博士建的Ubuntu 18.04 LTS ]()
 - [常用工具]
   - [『 Day 26』拜託別 Pwn 我啦！ - 常見的工具 （上）](https://ithelp.ithome.com.tw/articles/10227326) 
   - [『 Day 27』拜託別 Pwn 我啦！ - 常見的工具 （下）](https://ithelp.ithome.com.tw/articles/10227380)
