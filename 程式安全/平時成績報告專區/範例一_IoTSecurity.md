@@ -24,6 +24,9 @@ IoT安全標準:ISA/IEC 62443 Standards
 - 無線 AP/無線路由器
 - 環控系統(監控溫度或濕度之機房環控系統的伺服器主機)
 
+## IoT安全標準
+- [影像監控系統網路攝影機資安標準暨測試規範](https://www.taics.org.tw/userfiles/file/20170726/20170726161903_91378.pdf)
+
 ## IOT 安全測試: 流量分析|攻擊測試| IOT malware分析
 - [IOT TRAFFIC](https://iotanalytics.unsw.edu.au/iottraces)
 - [iot23資料集](https://www.stratosphereips.org/datasets-iot23)
