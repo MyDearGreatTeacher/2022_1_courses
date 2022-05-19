@@ -1,3 +1,29 @@
+## PWN程式漏洞分析與測試報告
+```
+程式漏洞
+程式漏洞資料庫
+程式漏洞嚴重度計分系統(Common Vulnerability Scoring System)CVSS
+測試環境與工具Pwntools
+
+```
+## 程式漏洞
+## 程式漏洞資料庫
+- [CVE](https://cve.mitre.org/)
+  - [windows 11 cve](https://www.cvedetails.com/vulnerability-list/vendor_id-26/product_id-102217/version_id-669655/Microsoft-Windows-11--.html) 
+- [NVD - NIST](https://nvd.nist.gov/vuln)
+- [CVSS程式漏洞嚴重度計分系統](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator) 
+
+
+## 測試環境與工具
+- 作業系統ubuntu 2022.04 LTS
+  - [KALi](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing) 
+- [常用工具]
+  - [『 Day 26』拜託別 Pwn 我啦！ - 常見的工具 （上）](https://ithelp.ithome.com.tw/articles/10227326) 
+  - [『 Day 27』拜託別 Pwn 我啦！ - 常見的工具 （下）](https://ithelp.ithome.com.tw/articles/10227380)
+- [Pwntools]
+  - [官方文件](https://docs.pwntools.com/en/stable/)
+  - [內容豐富的應用解題Nightmare](https://guyinatuxedo.github.io/02-intro_tooling/pwntools/index.html)
+
 ## 測試環境建置
 - 以ubuntu 20.04/18.04 LTS或Kali linux
 - [安裝peda](https://github.com/longld/peda) 
