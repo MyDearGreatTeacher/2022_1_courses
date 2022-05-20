@@ -17,6 +17,10 @@
 - [(Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2/e)]()
   - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e  Aurélien Géron 著 賴屹民 譯](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
   - [github](https://github.com/ageron/handson-ml2)
+- [Tensorflow ](https://www.tensorflow.org/)
+  - [TensorFlow tutorials](https://www.tensorflow.org/tutorials) 
+    - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn) 
+
 ```python
 import tensorflow as tf
 
@@ -34,6 +38,7 @@ print(x.dtype)
   - [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - [PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
 - [PYTORCH - YOUTUBE SERIES](https://pytorch.org/tutorials/beginner/introyt.html)
+- [PyTorch Examples](https://github.com/pytorch/examples)
 ```PYTHON
 import torch
 x = torch.rand(5, 3)
