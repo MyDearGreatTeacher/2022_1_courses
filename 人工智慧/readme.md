@@ -16,7 +16,10 @@
 ## Tensorflow 
 
 ## PyTorch
-
+- [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
+  - [核心開發者親授！PyTorch 深度學習攻略](https://www.tenlong.com.tw/products/9789863126737?list_name=srh)
+  - Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修
+  - [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 
 # 大學部上課影片
 
