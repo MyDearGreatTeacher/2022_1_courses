@@ -38,8 +38,25 @@ import torch
 x = torch.rand(5, 3)
 print(x)
 ```
+### [LEARN THE BASICS](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [TENSORS](https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html)
+```
+import torch
+import numpy as np
 
+data = [[1, 2],[3, 4]]
+x_data = torch.tensor(data)
+x_data
 
+shape = (2,3,)
+rand_tensor = torch.rand(shape)
+ones_tensor = torch.ones(shape)
+zeros_tensor = torch.zeros(shape)
+
+print(f"Random Tensor: \n {rand_tensor} \n")
+print(f"Ones Tensor: \n {ones_tensor} \n")
+print(f"Zeros Tensor: \n {zeros_tensor}")
+```
 # 大學部上課影片
 
 ### 20220518
