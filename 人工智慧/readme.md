@@ -1,5 +1,14 @@
-# 人工智慧的應用
+# 人工智慧
 - [Hung-yi Lee](https://www.youtube.com/c/HungyiLeeNTU)
+
+# 人工智慧的應用
+- 智慧金融
+  - [人工智慧與金融應用](https://www.ibm.com/blogs/think/tw-zh/2019/09/27/aifinance/) 
+- 智慧城市
+- 智慧醫療
+- 智慧農業
+- 智慧工業
+- 資訊安全 
 
 ## CNN的應用
 ## RNN的應用
