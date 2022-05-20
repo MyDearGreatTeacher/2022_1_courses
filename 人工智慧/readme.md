@@ -14,7 +14,16 @@
 # 人工智慧開發環境: Google Colab   Tensorflow PyTorch
 
 ## Tensorflow 
+```python
+import tensorflow as tf
 
+x = tf.constant([[1., 2., 3.],
+                 [4., 5., 6.]])
+
+print(x)
+print(x.shape)
+print(x.dtype)
+```
 ## PyTorch
 - [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
   - [核心開發者親授！PyTorch 深度學習攻略](https://www.tenlong.com.tw/products/9789863126737?list_name=srh)
