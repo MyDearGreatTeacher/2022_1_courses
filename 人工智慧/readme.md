@@ -19,6 +19,7 @@
 - [Deep Reinforcement Learning: Neural Networks for Learning Control Laws](https://www.youtube.com/watch?v=IUiKAD6cuTA)
 - [A friendly introduction to deep reinforcement learning, Q-networks and policy gradients](https://www.youtube.com/watch?v=SgC6AZss478)
 - [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+- [Process manufacturing optimization using AI with the Project Bonsai reinforcement learning toolchain](https://www.youtube.com/watch?v=Wh9ekBhU86U)
 
 # 人工智慧開發環境: Google Colab   Tensorflow PyTorch [YOUYUBE](https://youtu.be/ObyCftNJ9Fw)
 
