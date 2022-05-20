@@ -14,6 +14,9 @@
 # 人工智慧開發環境: Google Colab   Tensorflow PyTorch
 
 ## Tensorflow 
+- [(Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2/e)]()
+  - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 2/e  Aurélien Géron 著 賴屹民 譯](https://www.tenlong.com.tw/products/9789865024345?list_name=srh)
+  - [github](https://github.com/ageron/handson-ml2)
 ```python
 import tensorflow as tf
 
@@ -25,7 +28,7 @@ print(x.shape)
 print(x.dtype)
 ```
 ## PyTorch
-- [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
+- [教科書Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
   - [核心開發者親授！PyTorch 深度學習攻略](https://www.tenlong.com.tw/products/9789863126737?list_name=srh)
   - Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修
   - [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
