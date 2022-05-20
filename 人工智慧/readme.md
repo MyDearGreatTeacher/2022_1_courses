@@ -11,7 +11,7 @@
 - [A friendly introduction to deep reinforcement learning, Q-networks and policy gradients](https://www.youtube.com/watch?v=SgC6AZss478)
 - [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 
-# 人工智慧開發環境: Google Colab   Tensorflow PyTorch
+# 人工智慧開發環境: Google Colab   Tensorflow PyTorch [YOUYUBE](https://youtu.be/ObyCftNJ9Fw)
 
 ## Tensorflow 
 - [(Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2/e)]()
