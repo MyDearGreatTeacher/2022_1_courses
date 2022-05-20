@@ -33,6 +33,7 @@ print(x.dtype)
   - Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修
   - [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 - [PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
+- [PYTORCH - YOUTUBE SERIES](https://pytorch.org/tutorials/beginner/introyt.html)
 ```PYTHON
 import torch
 x = torch.rand(5, 3)
