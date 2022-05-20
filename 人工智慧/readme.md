@@ -11,10 +11,15 @@
 - 資訊安全 
 
 ## CNN的應用
+- ImageNet
+  - [ImageNet Dataset | Papers With Code](https://paperswithcode.com/dataset/imagenet) 
+  - [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
 ## RNN的應用
 ## GAN的應用
 
 - [【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
+- [DEEPfake]()
+- [Face2face ](https://towardsdatascience.com/face2face-a-pix2pix-demo-that-mimics-the-facial-expression-of-the-german-chancellor-b6771d65bf66)
 ## Deep reinforcement Learning的應用
 - [Deep Reinforcement Learning: Neural Networks for Learning Control Laws](https://www.youtube.com/watch?v=IUiKAD6cuTA)
 - [A friendly introduction to deep reinforcement learning, Q-networks and policy gradients](https://www.youtube.com/watch?v=SgC6AZss478)
