@@ -11,7 +11,7 @@
 - [A friendly introduction to deep reinforcement learning, Q-networks and policy gradients](https://www.youtube.com/watch?v=SgC6AZss478)
 - [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 
-# 人工智慧開發環境: Tensorflow PyTorch
+# 人工智慧開發環境: Google Colab   Tensorflow PyTorch
 
 ## Tensorflow 
 
@@ -20,6 +20,13 @@
   - [核心開發者親授！PyTorch 深度學習攻略](https://www.tenlong.com.tw/products/9789863126737?list_name=srh)
   - Eli Stevens、Luca Antiga、Thomas Viehmann 著 黃駿 , 施威銘研究室 監修
   - [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
+
+```PYTHON
+import torch
+x = torch.rand(5, 3)
+print(x)
+```
+
 
 # 大學部上課影片
 
