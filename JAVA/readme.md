@@ -5,6 +5,8 @@
 - JAVA物件導向程式開發
   - [使用super0525](https://youtu.be/FKRUzSzGjTA)
   - [使用FINAL0525](https://youtu.be/HAWU-v5I1KI)
+  - [使用static]
+  - [抽象類別(abstract class)與抽象方法(abstract method)](https://youtu.be/D7tsHcjlXJI)
 
 
 ## 開發環境1:Online Java Compiler IDE
