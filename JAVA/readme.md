@@ -1,8 +1,11 @@
 ## [恩師上課超連結](https://github.com/MyDearGreatTeacher/2022_1_courses)
 
-## 視訊上課
+## youtube視訊
 
-https://meet.google.com/ark-pgaa-dfp
+- JAVA物件導向程式開發
+  - [使用super0525](https://youtu.be/FKRUzSzGjTA)
+  - [使用FINAL0525](https://youtu.be/HAWU-v5I1KI)
+
 
 ## 開發環境1:Online Java Compiler IDE
 
