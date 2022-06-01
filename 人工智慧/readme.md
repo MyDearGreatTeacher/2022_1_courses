@@ -89,4 +89,4 @@ print(f"Zeros Tensor: \n {zeros_tensor}")
 ### 20220525
 - [神經網路與邏輯閘]
 ### 20220601
-- [具有學習能力的神經網路1.誤差函數]()
+- [具有學習能力的神經網路1.誤差函數](https://youtu.be/7PHSvfr5X7M)
