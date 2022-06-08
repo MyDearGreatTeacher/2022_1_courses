@@ -70,7 +70,7 @@ public class FinallyDemo {
 }
 ```
 
-### 方法的例外處理
+### 例外處理4:方法的例外處理
 ```java
 public class ExceptionMethod {
 	static int[] data = new int[10];
