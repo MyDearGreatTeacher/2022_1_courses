@@ -7,7 +7,7 @@ Java常用的內建例外類別
 自定例外類別
 ```
 
-## 例外處理
+## 例外處理1:try… catch… 
 ```java
 public class ExceptionDemo {
 	public static void main(String[] args) {
@@ -24,7 +24,7 @@ public class ExceptionDemo {
 }
 ```
 
-## 多個catch敘述
+## 例外處理2:try… catch…catch… catch…  多個catch敘述
 ```java
 public class MultiException1 {
 	public static void main(String[] args) {
@@ -50,3 +50,8 @@ public class MultiException1 {
 	}
 }
 ```
+### 例外處理3:try… catch… finally…
+```java
+
+```
+
