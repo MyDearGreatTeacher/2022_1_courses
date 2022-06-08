@@ -78,6 +78,8 @@ XNOR邏輯閘的MLP模型
       - 7 Sneaker
       - 8 Bag
       - 9 Ankle boot 
+  - 使用 tensorflow 高階API 的keras來建立模型 
+  - 使用keras的[The Sequential model](https://www.tensorflow.org/guide/keras/sequential_model) 
   - [使用手写KNN, Naive Bayes and Logistic regression 分类器对Fashion-MNIST 数据进行分类训练](http://blog.17baishi.com/5072/) 
 - [CNN 卷積神經網路Convolutional Neural Network (CNN)  |CIFAR10](https://www.tensorflow.org/tutorials/images/cnn)
 - [CNN 卷積神經網路Image classification](https://www.tensorflow.org/tutorials/images/classification)
