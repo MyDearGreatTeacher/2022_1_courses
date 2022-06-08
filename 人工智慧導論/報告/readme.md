@@ -66,6 +66,8 @@ XNOR邏輯閘的MLP模型
 
 #### 人工智慧的實作測試:影像辨識
 - [基本神經路模型 Basic classification: Classify images of clothing |fashion-mnist ](https://www.tensorflow.org/tutorials/keras/classification)
+  - [YOUTUBE教學影片20220608_1](https://youtu.be/HjjxdIB8kbo) 
+  - [YOUTUBE教學影片20220608_2](https://youtu.be/am5PU2tqBec)
   - [fashion-mnist Dataset](https://github.com/zalandoresearch/fashion-mnist)
     - There are 10 classes in total:
       - 0 T-shirt/Top
@@ -80,9 +82,11 @@ XNOR邏輯閘的MLP模型
       - 9 Ankle boot 
   - 使用 tensorflow 高階API 的keras來建立模型 
   - 使用keras的[The Sequential model](https://www.tensorflow.org/guide/keras/sequential_model) 
+    - [YOUTUBE教學影片20220608_1](https://youtu.be/HjjxdIB8kbo)  
     - [Keras sequential vs functional API](https://www.youtube.com/watch?v=EvGS3VAsG4Y) 
   - [使用手写KNN, Naive Bayes and Logistic regression 分类器对Fashion-MNIST 数据进行分类训练](http://blog.17baishi.com/5072/) 
 - [CNN 卷積神經網路Convolutional Neural Network (CNN)  |CIFAR10](https://www.tensorflow.org/tutorials/images/cnn)
+  - [YOUTUBE教學影片20220608_3]([https://youtu.be/HjjxdIB8kbo](https://youtu.be/B98J1JaRS1Y))  
   - CIFAR10
   - [tf.keras.layers.Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
   - [tf.keras.layers.MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
