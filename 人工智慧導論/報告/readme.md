@@ -83,4 +83,6 @@ XNOR邏輯閘的MLP模型
     - [Keras sequential vs functional API](https://www.youtube.com/watch?v=EvGS3VAsG4Y) 
   - [使用手写KNN, Naive Bayes and Logistic regression 分类器对Fashion-MNIST 数据进行分类训练](http://blog.17baishi.com/5072/) 
 - [CNN 卷積神經網路Convolutional Neural Network (CNN)  |CIFAR10](https://www.tensorflow.org/tutorials/images/cnn)
+  - CIFAR10
+  -  
 - [CNN 卷積神經網路Image classification](https://www.tensorflow.org/tutorials/images/classification)
