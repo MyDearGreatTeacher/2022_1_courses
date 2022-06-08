@@ -65,6 +65,19 @@ XNOR邏輯閘的MLP模型
 - 錯誤的應用:Deepfake
 
 #### 人工智慧的實作測試:影像辨識
-- [基本神經路模型 Basic classification: Classify images of clothing | ](https://www.tensorflow.org/tutorials/keras/classification)
+- [基本神經路模型 Basic classification: Classify images of clothing |fashion-mnist ](https://www.tensorflow.org/tutorials/keras/classification)
+  - [fashion-mnist Dataset](https://github.com/zalandoresearch/fashion-mnist)
+    - There are 10 classes in total:
+      - 0 T-shirt/Top
+      - 1 Trouser
+      - 2 Pullover
+      - 3 Dress
+      - 4 Coat
+      - 5 Sandal
+      - 6 Shirt
+      - 7 Sneaker
+      - 8 Bag
+      - 9 Ankle boot 
+  - [使用手写KNN, Naive Bayes and Logistic regression 分类器对Fashion-MNIST 数据进行分类训练](http://blog.17baishi.com/5072/) 
 - [CNN 卷積神經網路Convolutional Neural Network (CNN)  |CIFAR10](https://www.tensorflow.org/tutorials/images/cnn)
 - [CNN 卷積神經網路Image classification](https://www.tensorflow.org/tutorials/images/classification)
