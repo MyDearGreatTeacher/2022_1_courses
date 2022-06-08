@@ -50,7 +50,11 @@ XNOR邏輯閘的MLP模型
 ### 期末報告參考資料
 #### 人工智慧常見類型:
 - CNN: 卷積神經網路Convolutional Neural Networks
+  - [【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN)](https://www.youtube.com/watch?v=OP5HcXJg2Aw) 
 - RNN: 循環神經網路(Recurrent Neural Network, RNN)
+  - [ML Lecture 21-1: Recurrent Neural Network (Part I)](https://www.youtube.com/watch?v=xCGidAeyS4M&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ&index=2) 
+  - [ML Lecture 21-2: Recurrent Neural Network (Part II)](https://www.youtube.com/watch?v=rTqmWlnwz_0&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ&index=7)
+  - [【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型](https://www.youtube.com/watch?v=yHoAq1IT_og) 
 - GAN: 生成式對抗網路 (Generative Adversarial Network, GAN)  
   - [【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
   - [台大 Hung-yi Lee課程Generative Adversarial Network (GAN), 2018](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
