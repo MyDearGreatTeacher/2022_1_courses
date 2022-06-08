@@ -30,6 +30,20 @@ XNOR邏輯閘的MLP模型
 
 ## 期末報告:人工智慧與機器學習學習報告
 ```
+機器學習MACHINE LEARNING與人工智慧
+機器學習類型與常見演算法
+機器學習開發環境與套件
+機器學習演算法實戰與應用
+監督式機器學習演算法(1)回歸演算法
+監督式機器學習演算法(2)分類演算法
+非監督式機器學習演算法:叢集演算法
 
+人工智慧常見類型:
+  CNN: 卷積神經網路Convolutional Neural Networks
+  RNN: 循環神經網路(Recurrent Neural Network, RNN)
+  GAN: 生成式對抗網路 (Generative Adversarial Network, GAN)  https://www.youtube.com/watch?v=4OWp0wDu6Xw
+  DRL:
+人工智慧的應用
+人工智慧的實作測試
 ```
 
