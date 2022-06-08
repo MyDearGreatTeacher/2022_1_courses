@@ -52,12 +52,19 @@ XNOR邏輯閘的MLP模型
 - CNN: 卷積神經網路Convolutional Neural Networks
 - RNN: 循環神經網路(Recurrent Neural Network, RNN)
 - GAN: 生成式對抗網路 (Generative Adversarial Network, GAN)  
-- https://www.youtube.com/watch?v=4OWp0wDu6Xw
+  - [【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
+  - [台大 Hung-yi Lee課程Generative Adversarial Network (GAN), 2018](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
 - DRL: 深度強化式學習(Deep reinforcement learning)
+  - [ML Lecture 23-1: Deep Reinforcement Learning](https://www.youtube.com/watch?v=W8XF3ME8G2I)
+  - [【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (一) – 增強式學習跟機器學習一樣都是三個步驟](https://www.youtube.com/watch?v=XWukX-ayIrs)
+  - [台大 Hung-yi Lee課程 Deep Reinforcement Learning, 2018](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) 
 
 #### 人工智慧的應用
 - 自駕車
 - API程式碼產生
 - 錯誤的應用:Deepfake
 
-#### 人工智慧的實作測試
+#### 人工智慧的實作測試:影像辨識
+- [基本神經路模型 Basic classification: Classify images of clothing | ](https://www.tensorflow.org/tutorials/keras/classification)
+- [CNN 卷積神經網路Convolutional Neural Network (CNN)  |CIFAR10](https://www.tensorflow.org/tutorials/images/cnn)
+- [CNN 卷積神經網路Image classification](https://www.tensorflow.org/tutorials/images/classification)
