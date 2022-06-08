@@ -47,3 +47,17 @@ XNOR邏輯閘的MLP模型
 人工智慧的實作測試
 ```
 
+### 期末報告參考資料
+#### 人工智慧常見類型:
+- CNN: 卷積神經網路Convolutional Neural Networks
+- RNN: 循環神經網路(Recurrent Neural Network, RNN)
+- GAN: 生成式對抗網路 (Generative Adversarial Network, GAN)  
+- https://www.youtube.com/watch?v=4OWp0wDu6Xw
+- DRL: 深度強化式學習(Deep reinforcement learning)
+
+#### 人工智慧的應用
+- 自駕車
+- API程式碼產生
+- 錯誤的應用:Deepfake
+
+#### 人工智慧的實作測試
